@@ -26,7 +26,9 @@ This report provides behavioral insights based on scored DeFi wallets interactin
 - Redeemed little to no deposited funds
 - Experienced liquidation
 - One-off or inactive behavior
+  
 ![alt text](box_plot.png)
+
 ---
 
 ## 📊 KMeans Cluster Analysis

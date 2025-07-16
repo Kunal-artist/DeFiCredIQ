@@ -55,7 +55,7 @@ Plots show:
 
 - `wallet_scores.csv`: Final scores
 - `analysis.md`: Wallet behavior insights
-- `notebook.py`: All code (Colab-ready)
+- `Zeru_Project_1.ipynb`: All code (Colab-ready)
 
 ---
 
